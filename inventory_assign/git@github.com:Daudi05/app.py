@@ -3,7 +3,7 @@ from external_api import fetch_product
 
 app = Flask(__name__)
 
-# Mock database
+
 inventory = []
 current_id = 1
 
